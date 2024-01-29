@@ -1,7 +1,5 @@
 /* Nama : Afifuddin Mawardi
-   NIM	: 1301194113
-   Nama : M.NOER ICHZAN A.
-   NIM	: 1301194114 */
+   NIM	: 1301194113*/
 
 package main
 
